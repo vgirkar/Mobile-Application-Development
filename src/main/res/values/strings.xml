@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">HW07</string>
+    <string name="Fail">Failure</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Home</string>
+    <string name="Forums">Forums</string>
+    <string name="TrackLocation">Jog Tracker</string>
+    <string name="NewForums">New Forum</string>
+
+    <string name="password">Password</string>
+
+    <string name="Email">Email</string>
+
+    <string name="error">error</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA548XF3sA8xpG2xJhgnsnStO9_Jw8CLRo</string>
+
+    <string name="createacc">Create New Account</string>
+
+    <string name="dataerror">Please enter input data</string>
+
+    <string name="ok">ok</string>
+
+    <string name="InterfaceMsg">Interface error</string>
+    <string name="Name">Name</string>
+
+    <string name="submit">submit</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="jogStart">Start New Jogging Activity</string>
+    <string name="History">Previous jogs Track</string>
+    <string name="userHome">Welcome!!!</string>
+    <string name="stop">Stop Activity</string>
+    <string name="saved">Activity Saved</string>
+    <string name="Ok">Ok</string>
+    <string name="Welcome">Welcome !!!!</string>
+    <string name="history">Jog History</string>
+    <string name="show">Show Track</string>
+    <string name="view">Jog</string>
+    <string name="track">History Track</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+
+</resources>
